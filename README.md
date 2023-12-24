@@ -16,7 +16,7 @@ Please note, this repository contains only the **frontend** portion of the proje
 ## Frontend Technology Stack
 - React.js
 - Redux for state management
-- [Other libraries/frameworks used]
+- HTML & CSS [Custom made on Figma]
 
 ## Installation and Setup
 To get the frontend running locally:
