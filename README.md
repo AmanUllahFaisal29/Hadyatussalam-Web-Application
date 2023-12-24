@@ -1,4 +1,4 @@
-# Hadyatussalam Web Application
+# Hadyatussalam Web Application 🌙
 
 ## About
 Hadyatussalam is a dedicated productivity tool 🛠️ for the Muslim community. It offers a simple yet powerful way to manage daily tasks, track Islamic habits, maintain diaries, get prayer timings, and calculate Zakat. 
