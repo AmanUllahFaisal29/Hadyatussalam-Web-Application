@@ -1,0 +1,38 @@
+.h2{
+    font-size: 2.9rem;
+}
+
+.Mentors-top h1{
+    font-size: 3.5rem;
+    margin-bottom: 40px;
+    margin-top: 40px;
+  }
+
+  select {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 30px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-family: 'Alata', sans-serif;
+  }
+
+
+  .custom-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 19px;
+    background-color: #82AB62;
+    color: #fff;
+    border: none;
+    font-family: 'Alata', sans-serif;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .custom-button:hover {
+    background-color: #6b8755;
+  }
+  
